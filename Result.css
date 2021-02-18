@@ -1,0 +1,18 @@
+.result {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+    border-top: 2px solid #ddd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.result h3,
+.result h4 {
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.result em {
+    font-weight: bolder;
+    font-size: x-large;
+}
